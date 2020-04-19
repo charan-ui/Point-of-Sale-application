@@ -121,7 +121,7 @@ desired effect
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>P</b>OS</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>INVENTORY</b>-POS</span>
+      <span class="logo-lg"><b>Pharmaceutical</b>-Company</span>
     </a>
 
     <!-- Header Navbar -->

@@ -58,6 +58,7 @@ include_once'header.php';
   <div class="content-wrapper">
     <!-- Content Header (Page header) -->
     <section class="content-header">
+    <marquee behavior="alternate" BGCOLOR=White>Please Stay Home!</marquee>
       <h1>
        Admin Dashboard
         <small></small>
