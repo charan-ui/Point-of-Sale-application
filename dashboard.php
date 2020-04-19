@@ -75,7 +75,7 @@ include_once'header.php';
       <!--------------------------
         | Your Page Content Here |
         -------------------------->
-        <marquee behavior="alternate" BGCOLOR=White>Please Stay Home!</marquee>
+        <marquee behavior="alternate" >Please Stay Home!</marquee>
      <div class="box-body">
          
         <div class="row">
