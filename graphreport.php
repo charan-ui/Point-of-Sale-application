@@ -204,7 +204,7 @@ var chart = new Chart(ctx, {
     data: {
         labels: <?php echo json_encode($pname);?>,
         datasets: [{
-            label: 'Total Qunatity',
+            label: 'Total Quantity',
              backgroundColor: 'rgb(102, 255, 102)',
             borderColor: 'rgb(0, 102, 0)',
             data:<?php echo json_encode($qty);?>
